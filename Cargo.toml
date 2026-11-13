@@ -1,0 +1,12 @@
+[package]
+name = "horizon-mod-3dskinlayers"
+version = "1.0.0"
+edition = "2024"
+license = "CC0-1.0"
+publish = false
+description = "3D-extruded skin second layers: a Horizon behavioral port of 3D Skin Layers (tr7zw protective license, no upstream code)."
+
+[lib]
+path = "src/lib.rs"
+
+[workspace]
